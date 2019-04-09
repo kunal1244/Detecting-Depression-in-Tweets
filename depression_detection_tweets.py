@@ -10,9 +10,6 @@ Original file is located at
 
 # Installing and importing libraries
 """
-
-!pip install wordcloud
-!pip install nltk
 import nltk
 nltk.download('punkt')
 from nltk.tokenize import word_tokenize
